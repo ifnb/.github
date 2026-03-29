@@ -1,10 +1,10 @@
-## IFNB简介 👋
+## 千里马技术简介 👋
 
 ![](https://komarev.com/ghpvc/?username=ifnb&color=brightgreen)
 
 ---
 
-👋Hi，欢迎来到 **IFNB** 主页，快来探索新的领域吧😏。
+👋Hi，欢迎来到 **千里马技术** 主页，快来探索新的领域吧😏。
 
 ## 技术栈
 
